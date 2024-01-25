@@ -25,9 +25,3 @@ Ensure you have Jupyter Notebook installed to run these notebooks. You can insta
 - Jupyter Notebook
 - Libraries: `soccerdata`, `pandas`, `os`, `glob` (Install these using pip or conda)
 
-## Contributing
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
